@@ -7,7 +7,7 @@
 I created basic documents to guide people when they are new to Zoom
 
 ### For phone:
-- The [**Googgle doc**](https://docs.google.com/presentation/d/1DIc5Q4apBMB1hGo-LUPMM9ivo_Rm3oVNr3d1u30RroU/edit?usp=sharing), so you can copy it and make changes to it if you want to.
+- The [**Google doc**](https://docs.google.com/presentation/d/1DIc5Q4apBMB1hGo-LUPMM9ivo_Rm3oVNr3d1u30RroU/edit?usp=sharing), so you can copy it and make changes to it if you want to.
 
 **Some PDFs**
 - [Join Zoom on a phone](/Zoom/Join_Zoom_on_a_phone.pdf)
@@ -21,7 +21,7 @@ You have the files in the Zoom folder here. They are also on Youtube
 - [Join a Zoom breakout room on a phone](https://www.youtube.com/watch?v=Guujh_kseAE)
 
 ### For a laptop:
-- The [**Googgle doc**](https://docs.google.com/presentation/d/1VVRv-Icv1gxCRN3Bs9jqvuW0UDfAr1xWxb8J1omhuPo/edit?usp=sharing), so you can copy it and make changes to it if you want to.
+- The [**Google doc**](https://docs.google.com/presentation/d/1VVRv-Icv1gxCRN3Bs9jqvuW0UDfAr1xWxb8J1omhuPo/edit?usp=sharing), so you can copy it and make changes to it if you want to.
 
 **Some PDFs**
 - [Join Zoom on a laptop and main functions](/Zoom/zoom-help-for-laptop-join.pdf)
