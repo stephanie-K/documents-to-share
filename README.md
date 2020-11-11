@@ -4,7 +4,6 @@
 - [Accessibility](https://github.com/stephanie-K/documents-to-share#accessibility)
 - [Zoom help](https://github.com/stephanie-K/documents-to-share#zoom-help)
 - [Tube map yourself with draw.io](https://github.com/stephanie-K/documents-to-share#tube-map-yourself-with-drawio)
-
 <br>
 <br>
 
@@ -32,8 +31,8 @@ Good people for follow:
 - [Leonie Watson](https://tink.uk/)
 - [Sara Soueidan](https://www.sarasoueidan.com/tags/accessibility/)
 - [Suzanne Aitchison](https://www.upyoura11y.com/)
-
-
+<br>
+<br>
 ## Zoom help
 
 I created basic documents to guide people when they are new to Zoom
@@ -65,7 +64,6 @@ You have the files in the Zoom folder here. They are also on Youtube
 - [Join a Zoom breakout room on a laptop](https://www.youtube.com/watch?v=gkCtG_WT8RU)
 <br>
 <br>
-
 ## Tube map yourself with [draw.io](draw.io)
 **The article can be found [my blog](https://blog.chezleskrus.com/2019/11/19/tube-map-make-your-own/)**
 <br>
