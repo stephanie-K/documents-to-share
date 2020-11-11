@@ -12,8 +12,8 @@
 
 I'm writing some material for [Code Your Future](https://codeyourfuture.io/) where I volunteer.
 Feel free to use this as well:
-- [Intro to Web Development Accessibility](https://docs.google.com/presentation/d/1CY7r_r8Zs6evWuQpGZK_E2zvXqNWbEEd5x5n1OhE6Rg/edit?usp=sharing)
-- [Accessibility for developers - Basic](https://docs.google.com/presentation/d/15PG1w766J_EJGSVOnrjrn6ti_-K_7hdRjXZzA-sxTQ4/edit?usp=sharing)
+- [Intro to Web Development Accessibility](https://docs.google.com/presentation/d/1CY7r_r8Zs6evWuQpGZK_E2zvXqNWbEEd5x5n1OhE6Rg/edit?usp=sharing) (google slides)
+- [Accessibility for developers - Basic](https://docs.google.com/presentation/d/15PG1w766J_EJGSVOnrjrn6ti_-K_7hdRjXZzA-sxTQ4/edit?usp=sharing) (google slides)
 - Accessibility for developers - Intermediate (coming soon)
 
 I have some blog posts too:
@@ -33,6 +33,7 @@ Good people for follow:
 - [Suzanne Aitchison](https://www.upyoura11y.com/)
 <br>
 <br>
+
 ## Zoom help
 
 I created basic documents to guide people when they are new to Zoom
@@ -64,6 +65,7 @@ You have the files in the Zoom folder here. They are also on Youtube
 - [Join a Zoom breakout room on a laptop](https://www.youtube.com/watch?v=gkCtG_WT8RU)
 <br>
 <br>
+
 ## Tube map yourself with [draw.io](draw.io)
 **The article can be found [my blog](https://blog.chezleskrus.com/2019/11/19/tube-map-make-your-own/)**
 <br>
