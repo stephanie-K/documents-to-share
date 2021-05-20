@@ -23,27 +23,27 @@ Feel free to use this as well:
 #### Introduction
 - [Slides for Keynote](a11y/A11Y--bitesize-intro.key)
 - [Slides for Powerpoint](a11y/A11Y--bitesize-intro.pptx)
-- [Video on Youtube] - coming soon
+- [Video on Youtube](https://youtu.be/3oDwCGwzM2Q)
 
 #### Dyslexia
 - [Slides for Keynote](a11y/A11Y-bitesize-dyslexia.key)
 - [Slides for Powerpoint](a11y/A11Y-bitesize-dyslexia.pptx)
-- [Video on Youtube] - coming soon
+- [Video on Youtube](https://youtu.be/gvTlyfKSxYM)
 
 #### Colour blindness
 - [Slides for Keynote](a11y/A11Y-bitesize-colourblind.key)
 - [Slides for Powerpoint](a11y/A11Y-bitesize-colourblind.pptx)
-- [Video on Youtube] - coming soon
+- [Video on Youtube](https://youtu.be/THEh2jCr7NA)
 
 #### Assistive technologies
 - [Slides for Keynote](a11y/A11Y-bitesize-AT.key)
 - [Slides for Powerpoint](a11y/A11Y-bitesize-AT.pptx)
-- [Video on Youtube] - coming soon
+- [Video on Youtube](https://youtu.be/a_jA3r9E0jo)
 
 #### Social media
 - [Slides for Keynote](a11y/A11Y--bitesize-social-media.key)
 - [Slides for Powerpoint](a11y/A11Y--bitesize-social-media.pptx)
-- [Video on Youtube] - coming soon
+- [Video on Youtube](https://youtu.be/-3pSSGD8VKc)
 
 ### Some blog posts too:
 - [Advocating for accessibility]  (coming soon)
