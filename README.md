@@ -46,7 +46,7 @@ Feel free to use this as well:
 - [Video on Youtube](https://youtu.be/-3pSSGD8VKc)
 
 ### Some blog posts too:
-- [Advocating for accessibility]  (coming soon)
+- [Advocating for accessibility](https://blog.chezleskrus.com/2021/05/20/advocating-for-accessibility/)
 - [Accessibility resources](https://blog.chezleskrus.com/2020/11/23/accessibility-resources/)
 - [Is my website accessible?](https://blog.chezleskrus.com/2020/10/31/is-my-website-accessible/)
 - [Making your social media posts accessible](https://blog.chezleskrus.com/2019/11/14/making-your-social-media-posts-accessible/)
