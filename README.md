@@ -10,13 +10,44 @@
 ## Accessibility
 ![Accessibility word the first and last letter of the word in black and the letters in between in red and numbered. There are 11 letters between the initial 'a' and the last 'y', that's why we say a11y](a11y/a11y-CYF.png)
 
+
+### For developers
 I'm writing some material for [Code Your Future](https://codeyourfuture.io/) where I volunteer.
 Feel free to use this as well:
 - [Intro to Web Development Accessibility](https://docs.google.com/presentation/d/1CY7r_r8Zs6evWuQpGZK_E2zvXqNWbEEd5x5n1OhE6Rg/edit?usp=sharing) (google slides)
 - [Accessibility for developers - Basic](https://docs.google.com/presentation/d/15PG1w766J_EJGSVOnrjrn6ti_-K_7hdRjXZzA-sxTQ4/edit?usp=sharing) (google slides)
 - Accessibility for developers - Intermediate (coming soon)
 
-I have some blog posts too:
+### Slides to create your own videos (basics)
+
+#### Introduction
+- [Slides for Keynote](a11y/A11Y--bitesize-intro.key)
+- [Slides for Powerpoint](a11y/A11Y--bitesize-intro.pptx)
+- [Video on Youtube] - coming soon
+
+#### Dyslexia
+- [Slides for Keynote](a11y/A11Y-bitesize-dyslexia.key)
+- [Slides for Powerpoint](a11y/A11Y-bitesize-dyslexia.pptx)
+- [Video on Youtube] - coming soon
+
+#### Colour blindness
+- [Slides for Keynote](a11y/A11Y-bitesize-colourblind.key)
+- [Slides for Powerpoint](a11y/A11Y-bitesize-colourblind.pptx)
+- [Video on Youtube] - coming soon
+
+#### Assistive technologies
+- [Slides for Keynote](a11y/A11Y-bitesize-AT.key)
+- [Slides for Powerpoint](a11y/A11Y-bitesize-AT.pptx)
+- [Video on Youtube] - coming soon
+
+#### Social media
+- [Slides for Keynote](a11y/A11Y--bitesize-social-media.key)
+- [Slides for Powerpoint](a11y/A11Y--bitesize-social-media.pptx)
+- [Video on Youtube] - coming soon
+
+### Some blog posts too:
+- [Advocating for accessibility]  (coming soon)
+- [Accessibility resources](https://blog.chezleskrus.com/2020/11/23/accessibility-resources/)
 - [Is my website accessible?](https://blog.chezleskrus.com/2020/10/31/is-my-website-accessible/)
 - [Making your social media posts accessible](https://blog.chezleskrus.com/2019/11/14/making-your-social-media-posts-accessible/)
 - [Accessibility Scotland Conference — 2019 edition](https://blog.chezleskrus.com/2019/10/27/accessibility-scotland-conference-2019-edition/)
