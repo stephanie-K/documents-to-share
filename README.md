@@ -16,9 +16,10 @@ I'm writing some material for [Code Your Future](https://codeyourfuture.io/) whe
 Feel free to use this as well:
 - [Intro to Web Development Accessibility](https://docs.google.com/presentation/d/1CY7r_r8Zs6evWuQpGZK_E2zvXqNWbEEd5x5n1OhE6Rg/edit?usp=sharing) (google slides)
 - [Accessibility for developers - Basic](https://docs.google.com/presentation/d/15PG1w766J_EJGSVOnrjrn6ti_-K_7hdRjXZzA-sxTQ4/edit?usp=sharing) (google slides)
-- Accessibility for developers - Intermediate (coming soon)
+- [Accessibility for developers - Intermediate](https://docs.google.com/presentation/d/1oFAPDPhGbcvAJv_PTCm42tt86eo9G1xoLchlCCHa-1I/edit?usp=sharing) (google slides)
 
 ### Slides to create your own videos (basics)
+Please note: the powerpoint and keynote presentations are intended to be used to make videos. They are not accessible to use as presentation and would need a bit of work to be read properly using a screenreader.
 
 #### Introduction
 - [Slides for Keynote](a11y/A11Y--bitesize-intro.key)
