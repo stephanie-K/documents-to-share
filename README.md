@@ -2,7 +2,7 @@
 
 ## For developers
 I have written some material for [Code Your Future](https://codeyourfuture.io/) where I used to volunteer.
-Feel free to use this as well:
+Feel free to use this:
 - [Intro to Web Development Accessibility](https://docs.google.com/presentation/d/1CY7r_r8Zs6evWuQpGZK_E2zvXqNWbEEd5x5n1OhE6Rg/edit?usp=sharing) (google slides)
 - [Accessibility for developers - Basic](https://docs.google.com/presentation/d/15PG1w766J_EJGSVOnrjrn6ti_-K_7hdRjXZzA-sxTQ4/edit?usp=sharing) (google slides)
 - [Accessibility for developers - Intermediate](https://docs.google.com/presentation/d/1oFAPDPhGbcvAJv_PTCm42tt86eo9G1xoLchlCCHa-1I/edit?usp=sharing) (google slides)
