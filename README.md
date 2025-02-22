@@ -1,53 +1,15 @@
 # This is where I can share documents with others
 
-## Quick access
-- [Accessibility](https://github.com/stephanie-K/documents-to-share#accessibility)
-- [Zoom help](https://github.com/stephanie-K/documents-to-share#zoom-help)
-- [Tube map yourself with draw.io](https://github.com/stephanie-K/documents-to-share#tube-map-yourself-with-drawio)
-<br>
-<br>
-
-## Accessibility
-![Accessibility word the first and last letter of the word in black and the letters in between in red and numbered. There are 11 letters between the initial 'a' and the last 'y', that's why we say a11y](a11y/a11y-CYF.png)
-
-
-### For developers
-I'm writing some material for [Code Your Future](https://codeyourfuture.io/) where I volunteer.
+## For developers
+I have written some material for [Code Your Future](https://codeyourfuture.io/) where I used to volunteer.
 Feel free to use this as well:
 - [Intro to Web Development Accessibility](https://docs.google.com/presentation/d/1CY7r_r8Zs6evWuQpGZK_E2zvXqNWbEEd5x5n1OhE6Rg/edit?usp=sharing) (google slides)
 - [Accessibility for developers - Basic](https://docs.google.com/presentation/d/15PG1w766J_EJGSVOnrjrn6ti_-K_7hdRjXZzA-sxTQ4/edit?usp=sharing) (google slides)
 - [Accessibility for developers - Intermediate](https://docs.google.com/presentation/d/1oFAPDPhGbcvAJv_PTCm42tt86eo9G1xoLchlCCHa-1I/edit?usp=sharing) (google slides)
 
-### Slides to create your own videos (basics)
-Please note: the powerpoint and keynote presentations are intended to be used to make videos. They are not accessible to use as presentation and would need a bit of work to be read properly using a screenreader.
 
-#### Introduction
-- [Slides for Keynote](a11y/A11Y--bitesize-intro.key)
-- [Slides for Powerpoint](a11y/A11Y--bitesize-intro.pptx)
-- [Video on Youtube](https://youtu.be/3oDwCGwzM2Q)
 
-#### Dyslexia
-- [Slides for Keynote](a11y/A11Y-bitesize-dyslexia.key)
-- [Slides for Powerpoint](a11y/A11Y-bitesize-dyslexia.pptx)
-- [Video on Youtube](https://youtu.be/gvTlyfKSxYM)
-
-#### Colour blindness
-- [Slides for Keynote](a11y/A11Y-bitesize-colourblind.key)
-- [Slides for Powerpoint](a11y/A11Y-bitesize-colourblind.pptx)
-- [Video on Youtube](https://youtu.be/THEh2jCr7NA)
-
-#### Assistive technologies
-- [Slides for Keynote](a11y/A11Y-bitesize-AT.key)
-- [Slides for Powerpoint](a11y/A11Y-bitesize-AT.pptx)
-- [Video on Youtube](https://youtu.be/a_jA3r9E0jo)
-
-#### Social media
-- [Slides for Keynote](a11y/A11Y--bitesize-social-media.key)
-- [Slides for Powerpoint](a11y/A11Y--bitesize-social-media.pptx)
-- [Video on Youtube](https://youtu.be/-3pSSGD8VKc)
-
-### Some blog posts too:
-- [Advocating for accessibility](https://blog.chezleskrus.com/2021/05/20/advocating-for-accessibility/)
+## Some blog posts I wrote about accessibility:
 - [Accessibility resources](https://blog.chezleskrus.com/2020/11/23/accessibility-resources/)
 - [Is my website accessible?](https://blog.chezleskrus.com/2020/10/31/is-my-website-accessible/)
 - [Making your social media posts accessible](https://blog.chezleskrus.com/2019/11/14/making-your-social-media-posts-accessible/)
@@ -63,40 +25,8 @@ Good people for follow:
 - [Leonie Watson](https://tink.uk/)
 - [Sara Soueidan](https://www.sarasoueidan.com/tags/accessibility/)
 - [Suzanne Aitchison](https://www.upyoura11y.com/)
-<br>
-<br>
 
-## Zoom help
 
-I created basic documents to guide people when they are new to Zoom
-
-### For phone:
-- The [**Google doc**](https://docs.google.com/presentation/d/1DIc5Q4apBMB1hGo-LUPMM9ivo_Rm3oVNr3d1u30RroU/edit?usp=sharing), so you can copy it and make changes to it if you want to.
-
-**Some PDFs**
-- [Join Zoom on a phone](/Zoom/Join_Zoom_on_a_phone.pdf)
-- [Zoom functions on a phone](/Zoom/Zoom_functions_on_a_phone.pdf)
-- [Join a Zoom breakout room on a phone](/Zoom/Join-Zoom-breakout-room-on-a-phone.pdf)
-
-**Videos mades using the Google doc**
-You have the files in the Zoom folder here. They are also on Youtube
-- [Join Zoom on a phone](https://www.youtube.com/watch?v=3iHpGiTd9QA)
-- [Zoom functions on a phone](https://www.youtube.com/watch?v=lcUKc9Ue3EI)
-- [Join a Zoom breakout room on a phone](https://www.youtube.com/watch?v=Guujh_kseAE)
-
-### For a laptop:
-- The [**Google doc**](https://docs.google.com/presentation/d/1VVRv-Icv1gxCRN3Bs9jqvuW0UDfAr1xWxb8J1omhuPo/edit?usp=sharing), so you can copy it and make changes to it if you want to.
-
-**Some PDFs**
-- [Join Zoom on a laptop and main functions](/Zoom/zoom-help-for-laptop-join.pdf)
-- [Join a Zoom breakout room on a laptop](/Zoom/Zoom-help-breakout-room-for-laptop.pdf)
-
-**Videos mades using the Google doc**
-You have the files in the Zoom folder here. They are also on Youtube
-- [Join Zoom on a laptop](https://www.youtube.com/watch?v=d9pSd5M4YmE)
-- [Join a Zoom breakout room on a laptop](https://www.youtube.com/watch?v=gkCtG_WT8RU)
-<br>
-<br>
 
 ## Tube map yourself with [draw.io](draw.io)
 **The article can be found [my blog](https://blog.chezleskrus.com/2019/11/19/tube-map-make-your-own/)**
