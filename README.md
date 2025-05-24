@@ -10,11 +10,11 @@ Feel free to use this:
 
 
 ## Some blog posts I wrote about accessibility:
--[Alternative format for slides](https://blog.chezleskrus.com/2025/05/08/alternative-format-for-slides/)
--[Inclusion in the workplace](https://blog.chezleskrus.com/2024/03/10/inclusion-in-the-workplace/)
--[Avoiding misconceptions on your accessibility learning journey](https://blog.chezleskrus.com/2022/05/18/avoiding-misconceptions-on-your-accessibility-learning-journey/)
--[Keeping accessibility in mind](https://blog.chezleskrus.com/2022/05/12/keeping-accessibility-in-mind-2/)
--[Advice for speakers](https://blog.chezleskrus.com/2021/09/28/advice-for-speakers/)
+- [Alternative format for slides](https://blog.chezleskrus.com/2025/05/08/alternative-format-for-slides/)
+- [Inclusion in the workplace](https://blog.chezleskrus.com/2024/03/10/inclusion-in-the-workplace/)
+- [Avoiding misconceptions on your accessibility learning journey](https://blog.chezleskrus.com/2022/05/18/avoiding-misconceptions-on-your-accessibility-learning-journey/)
+- [Keeping accessibility in mind](https://blog.chezleskrus.com/2022/05/12/keeping-accessibility-in-mind-2/)
+- [Advice for speakers](https://blog.chezleskrus.com/2021/09/28/advice-for-speakers/)
 - [Accessibility resources](https://blog.chezleskrus.com/2020/11/23/accessibility-resources/)
 - [Is my website accessible?](https://blog.chezleskrus.com/2020/10/31/is-my-website-accessible/)
 - [Making your social media posts accessible](https://blog.chezleskrus.com/2019/11/14/making-your-social-media-posts-accessible/)
