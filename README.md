@@ -3,13 +3,18 @@
 ## For developers
 I have written some material for [Code Your Future](https://codeyourfuture.io/) where I used to volunteer.
 Feel free to use this:
-- [Intro to Web Development Accessibility](https://docs.google.com/presentation/d/1CY7r_r8Zs6evWuQpGZK_E2zvXqNWbEEd5x5n1OhE6Rg/edit?usp=sharing) (google slides)
-- [Accessibility for developers - Basic](https://docs.google.com/presentation/d/15PG1w766J_EJGSVOnrjrn6ti_-K_7hdRjXZzA-sxTQ4/edit?usp=sharing) (google slides)
-- [Accessibility for developers - Intermediate](https://docs.google.com/presentation/d/1oFAPDPhGbcvAJv_PTCm42tt86eo9G1xoLchlCCHa-1I/edit?usp=sharing) (google slides)
+- [Intro to Web Development Accessibility](https://docs.google.com/presentation/d/1Q66bJzM31PgLpoH2MFOvz3UYV4bZ8paXIYLw_XEfFVM/edit?usp=sharing) (google slides)
+- [Accessibility for developers - Basic](https://docs.google.com/presentation/d/1xi476vvalPFjTUqOZkxjxrp8DNUnBuEp1t8JHhnBLY8/edit?usp=sharing) (google slides)
+- [Accessibility for developers - Intermediate](https://docs.google.com/presentation/d/1tNa3ikSjRUMehBAWciUCaY-ziNPPQ__majVV2NFQIpo/edit?usp=sharing) (google slides)
 
 
 
 ## Some blog posts I wrote about accessibility:
+-[Alternative format for slides](https://blog.chezleskrus.com/2025/05/08/alternative-format-for-slides/)
+-[Inclusion in the workplace](https://blog.chezleskrus.com/2024/03/10/inclusion-in-the-workplace/)
+-[Avoiding misconceptions on your accessibility learning journey](https://blog.chezleskrus.com/2022/05/18/avoiding-misconceptions-on-your-accessibility-learning-journey/)
+-[Keeping accessibility in mind](https://blog.chezleskrus.com/2022/05/12/keeping-accessibility-in-mind-2/)
+-[Advice for speakers](https://blog.chezleskrus.com/2021/09/28/advice-for-speakers/)
 - [Accessibility resources](https://blog.chezleskrus.com/2020/11/23/accessibility-resources/)
 - [Is my website accessible?](https://blog.chezleskrus.com/2020/10/31/is-my-website-accessible/)
 - [Making your social media posts accessible](https://blog.chezleskrus.com/2019/11/14/making-your-social-media-posts-accessible/)
@@ -23,7 +28,7 @@ Good people for follow:
 - [Adrian Roselli - blog](https://adrianroselli.com/)
 - [Scott O'Hara - blog](https://www.scottohara.me/)
 - [Leonie Watson](https://tink.uk/)
-- [Sara Soueidan](https://www.sarasoueidan.com/tags/accessibility/)
+- [Sara Soueidan](https://www.sarasoueidan.com/)
 - [Suzanne Aitchison](https://www.upyoura11y.com/)
 
 
