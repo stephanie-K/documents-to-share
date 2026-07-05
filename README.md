@@ -24,12 +24,14 @@ Feel free to use this:
 
 Good people for follow:
 - [a11y project](https://a11yproject.com/resources)
+- [Craig Abbott](https://www.craigabbott.co.uk/)
 - [Heydonworks](http://www.heydonworks.com/)
 - [Adrian Roselli - blog](https://adrianroselli.com/)
 - [Scott O'Hara - blog](https://www.scottohara.me/)
 - [Leonie Watson](https://tink.uk/)
 - [Sara Soueidan](https://www.sarasoueidan.com/)
 - [Suzanne Aitchison](https://www.upyoura11y.com/)
+- [TetraLogical](https://tetralogical.com/)
 
 
 
